@@ -1,0 +1,9 @@
+ git
+    git status ใช้เพื่อดูว่าตอนนี้มีไฟล์ไหนอัพโหลดแล้วและยังไม่อัพโหลด
+    git add <file>. ใช้เพื่อขอเพิ่มไฟล์เข้าไปใน git แต่ยังไม่ได้เพิ่ม
+    git commit -m "massage ที่จะ Note การเปลี่ยนแปลงนี้" ใช้เพื่อสร้างsnapshotให้gitเพื่อบันทึกว่ามีการแก้ไขอะไรและอัพเดตไฟล์ขึ้น git
+    git log --all --graph --decorate --oneline
+    git checkout <* code ตำแหน่งงาน>
+    git checkout -b <feature>
+    git merge <ชื่อ feature>
+    
