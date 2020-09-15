@@ -13,5 +13,4 @@
     git add .
     git commit -m "---"
     git push หรือบางครั้งที่ไฟล์ไม่ตรงอาจจ้องมีการ git pull ดึงไฟล์ลงมาก่อนจะ git push
-
     
