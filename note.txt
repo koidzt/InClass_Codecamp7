@@ -7,5 +7,5 @@
     git checkout -b <feature>
     git merge <ชื่อ feature>
     git remote add origin <url> คือการตั้งค่า remote เชื่อมไปที่ url ชื่อ origin
-    git remote origin คือเลือกว่าจะเชื่อกับ url ที่ชื่อ origin (กรณีมี url หลายตัวหลายชื่อ)
+    git remote origin คือเลือกว่าจะเชื่อมกับ url ที่ชื่อ origin
     
